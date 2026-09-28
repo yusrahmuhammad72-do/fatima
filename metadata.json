@@ -1,0 +1,6 @@
+{
+  "name": "StyleAI – AI Fashion & Outfit Assistant",
+  "description": "AI-powered fashion catalogue, intelligent outfit recommendations, interactive stylist consultation, and responsive shopping cart.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
